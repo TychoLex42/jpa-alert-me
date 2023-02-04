@@ -2,6 +2,32 @@
 layout: default
 ---
 
+## Was ist JPA-Alert.me?
+
+JPA-Alert.me ist ein kostenloser Benachrichtigungs-Service für Juraprüflinge. Sobald sich etwas auf der Homepage des JPA ändert, z.B. eine Kennziffernliste mit nicht bestandenen Klausuren veröffentlicht wird, erhälst du eine Push-Benachrichtigung auf deinem Smartphone. 
+
+## Wie erhalte ich die Benachrichtungen?
+
+1.  Telegram kostenlos herunterladen & Konto erstellen 
+2.  Link zum öffentlichen Telegram-Channel folgen und beitreten
+3.  Push-Benachrichtungen von Telegram auf dem Smartphone erlauben
+4.  Auf das nächste Update warten!
+
+## FAQ - Frequently Asked Questions
+
+### Welche JPA-Homepages werden derzeit getrackt?
+
+Folgende Website-Änderungen werden derzeit getrackt:
+
+*   [Website Aktuelles des OLG Köln](https://www.olg-koeln.nrw.de/aufgaben/justizpruefungsamt/002_aktuelles/index.php)
+    *   Kennziffern-Liste mit nicht bestandenen Klausuren
+    *   Kennziffern-Liste(n) mit Losungs-Ergebnissen
+    *   Allgemeine Änderungen auf der Website
+
+### Question X
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -9,12 +35,6 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
 
 > This is a blockquote following a header.
 >
@@ -36,6 +56,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+
 
 #### Header 4
 
