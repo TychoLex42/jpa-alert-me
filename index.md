@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 ## Was ist JPA-Alert.me?
 
 JPA-Alert.me ist ein kostenloser Benachrichtigungs-Service für Juraprüflinge. Sobald sich etwas auf der Homepage des JPA ändert, z.B. eine Kennziffernliste mit nicht bestandenen Klausuren veröffentlicht wird, erhälst du eine Push-Benachrichtigung auf deinem Smartphone. 
