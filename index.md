@@ -2,7 +2,7 @@
 layout: default
 ---
 
-(Website im Aufbau...)
+"Legal Tech" built with ❤️ and full-code
 
 # Was ist JPA-Alert.me?
 
