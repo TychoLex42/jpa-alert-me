@@ -7,7 +7,7 @@ JPA-Alert.me ist ein kostenloser Benachrichtigungsdienst über Änderungen auf d
 ## Wie erhalte ich die Push-Benachrichtungen?
 
 1.  Telegram kostenlos herunterladen & Konto erstellen 
-2.  Link zum öffentlichen Telegram-Channel folgen und beitreten
+2.  Link zum öffentlichen Telegram-Channel folgen und Channel abonnieren
 3.  Push-Benachrichtungen von Telegram auf dem Smartphone erlauben
 4.  Auf das nächste Update warten!
 
