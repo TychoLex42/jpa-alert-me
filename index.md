@@ -6,9 +6,9 @@ layout: default
 
 # Was ist JPA-Alert.me?
 
-JPA-Alert.me ist ein kostenloser Benachrichtigungs-Service für Juraprüflinge. Sobald sich etwas auf der Homepage des JPA ändert, z.B. eine Kennziffernliste mit nicht bestandenen Klausuren veröffentlicht wird, erhälst du eine Push-Benachrichtigung auf deinem Smartphone. 
+JPA-Alert.me ist ein kostenloser Benachrichtigungsdienst über Änderungen auf der Homepage des JPA. Sobald z.B. eine neue Kennziffernliste mit nicht bestandenen Klausuren oder neue mündliche Prüfungstermine veröffentlicht werden, wird eine Push-Benachrichtigung via Telegram gesendet.
 
-## Wie erhalte ich die Benachrichtungen?
+## Wie erhalte ich die Push-Benachrichtungen?
 
 1.  Telegram kostenlos herunterladen & Konto erstellen 
 2.  Link zum öffentlichen Telegram-Channel folgen und beitreten
@@ -21,7 +21,11 @@ JPA-Alert.me ist ein kostenloser Benachrichtigungs-Service für Juraprüflinge. 
 
 Folgende Website-Änderungen werden derzeit getrackt:
 
-*   [Website Aktuelles des OLG Köln](https://www.olg-koeln.nrw.de/aufgaben/justizpruefungsamt/002_aktuelles/index.php)
+*   [Website "Aktuelles" des OLG Köln](https://www.olg-koeln.nrw.de/aufgaben/justizpruefungsamt/002_aktuelles/index.php)
     *   Kennziffern-Liste mit nicht bestandenen Klausuren
     *   Kennziffern-Liste(n) mit Losungs-Ergebnissen
     *   Allgemeine Änderungen auf der Website
+*   [Website "Mündliche Prüfungstermine" des OLG Köln](https://www.olg-koeln.nrw.de/aufgaben/justizpruefungsamt/003_staatl-pflichtfachpruefung/004_muendlichepruefung/001_termine/index.php)
+    *   Übersichts-Listen pro Monat mit mündlichen Prüfungsterminen
+    *   Kennziffern-Liste(n) zu einzelnen mündlichen Prüfungsterminen
+
