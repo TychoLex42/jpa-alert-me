@@ -2,7 +2,7 @@
 layout: default
 ---
 
-"Legal Tech" built with ❤️ and full-code
+🧑‍💻 Full-code "Legal Tech" built with ❤️
 
 # Was ist JPA-Alert.me?
 
@@ -11,7 +11,7 @@ JPA-Alert.me ist ein kostenloser Benachrichtigungsdienst über Änderungen auf d
 ## Wie erhalte ich die Push-Benachrichtungen?
 
 1.  Telegram kostenlos herunterladen & Konto erstellen 
-2.  Link zum öffentlichen Telegram-Channel folgen und Channel abonnieren
+2.  Link zum öffentlichen Telegram-Kanal folgen und Kanal abonnieren
 3.  Push-Benachrichtungen von Telegram auf dem Smartphone erlauben
 4.  Auf das nächste Update warten!
 
@@ -29,3 +29,14 @@ Folgende Website-Änderungen werden derzeit getrackt:
     *   Übersichts-Listen pro Monat mit mündlichen Prüfungsterminen
     *   Kennziffern-Liste(n) zu einzelnen mündlichen Prüfungsterminen
 
+### Kann ich den Telegram-Kanal von JPA-Alert.me anonym abonnieren?
+
+Ja, denn im Gegensatz zu einer Gruppe auf Telegram können Kanal-AbonnentInnen nicht gegenseitig sehen, wer den Kanal abonniert hat.
+
+### Kann ich die Benachrichtigungen auch ohne Telegram sehen und/oder erhalten?
+
+Jein. Über den obigen Link zum Telegram-Kanal ist zwar eine Vorschau des Kanals ("Preview-Channel") möglich. Um die Push-Benachrichtigungen zu erhalten, musst Du jedoch einen Telegram-Account erstellen. Dein Telegram-Account ist zwar mit Deiner Telefonnummer verknüpft, jedoch kannst Du diese durch das Festlegen eines Benutzernamens verbergen und so Telegram anonym nutzen.
+
+### Warum Telegram, und nicht z.B. Signal oder WhatsApp?
+
+Gegenüber anderen Messenger-Diensten hat Telegram aus Entwickler-Sicht vor allem zwei Vorteile: Ein Telegram-Kanal kann von einer unbegrenzten Anzahl an Nutzern abonniert werden. Zudem ist das Versenden von Nachrichten über den Telegram Bot API viel einfacher als bei anderen Messenger-Diensten.
