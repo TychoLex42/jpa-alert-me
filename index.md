@@ -39,4 +39,4 @@ Jein. Über den obigen Link zum Telegram-Kanal ist zwar eine Vorschau des Kanals
 
 ### Warum Telegram, und nicht z.B. Signal oder WhatsApp?
 
-Gegenüber anderen Messenger-Diensten hat Telegram aus Entwickler-Sicht vor allem zwei Vorteile: Ein Telegram-Kanal kann von einer unbegrenzten Anzahl an Nutzern abonniert werden. Zudem ist das Versenden von Nachrichten über den Telegram Bot API viel einfacher als bei anderen Messenger-Diensten.
+Gegenüber anderen Messenger-Diensten hat Telegram aus EntwicklerInnen-Sicht vor allem zwei Vorteile: Ein Telegram-Kanal kann von einer unbegrenzten Anzahl an NutzerInnen abonniert werden. Zudem ist das Versenden von Nachrichten über den Telegram Bot API viel einfacher als bei anderen Messenger-Diensten.
